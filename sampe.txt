@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-this is myprojectsample
-=======
-sample
-nanananananana
->>>>>>> 0532f856c817059f3342eca0eff8e3ce100c308d
+nges further to myproject
