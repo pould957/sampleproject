@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+i again changed it in featue"1234" 
+=======
 "1234" 
 I changed it as another user 
+>>>>>>> ec7dd74ec35b8790de824d16f1fc3f8028b791bd
