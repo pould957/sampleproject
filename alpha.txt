@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-here in feature branch
-=======
-ojay i am editing alpha
->>>>>>> 618edd13841975aed296415648f62d033ddc3118
