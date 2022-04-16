@@ -1,1 +1,1 @@
-sample beta
+sample beta beta1
